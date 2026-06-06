@@ -100,12 +100,6 @@
 
 ---
 
-## 🌐 Languages
-
-🇬🇧 English · 🇮🇳 Hindi · 🏠 Marathi (Native)
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SHARDUL0105&color=6366f1&style=flat-square&label=Profile+Views"/>
   <p><i>"Code. Learn. Build. Repeat."</i></p>
