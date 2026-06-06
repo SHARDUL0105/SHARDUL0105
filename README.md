@@ -15,17 +15,13 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const shardul = {
-  degree    : "B.Tech Computer Engineering (Data Science Honors)",
-  college   : "PES Modern College of Engineering, Pune",
-  cgpa      : 8.64,
-  languages : ["C++", "Python", "Java", "JavaScript"],
-  stack     : ["MERN", "Node.js", "Express", "MongoDB", "Redis"],
-  interests : ["Full-Stack Development", "AI/ML", "DSA", "System Design"],
-  currentlyBuilding : "Full-stack projects with AI integration 🚀"
-};
-```
+- 🎓 B.Tech Computer Engineering (Data Science Honors) @ Modern College, Pune
+- 📊 CGPA: 8.64 / 10
+- 💻 Full-Stack Developer — MERN Stack
+- 🤖 Passionate about AI/ML and System Design
+- 🧩 Solved 200+ DSA problems on LeetCode & CodeChef
+- 🚀 Currently building full-stack apps with AI integration
+- 📬 Reach me at shardul0301@gmail.com
 
 ---
 
